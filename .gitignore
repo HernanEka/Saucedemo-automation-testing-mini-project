@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# WebdriverIO report files
+allure-results/
+allure-report/
+junit-results/
+*.log
+logs/
+
+# Coverage reports
+coverage/
+
+# Temporary files and folders
+temp/
+.tmp/
+.DS_Store
+*.tmp
+
+# IDE/project-specific files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+Thumbs.db
